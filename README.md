@@ -46,6 +46,20 @@ Developed by: RegisterNumber:*/
 
 **Timing Diagram**
 
+![WhatsApp Image 2025-10-25 at 08 00 33_123c5580](https://github.com/user-attachments/assets/2a4c328d-f50d-487d-8412-ee6d048fab70)
+
+
+
+![WhatsApp Image 2025-10-25 at 08 00 36_5b68cd95](https://github.com/user-attachments/assets/c4cfc4a9-2cdb-4913-a6bb-90f7dd23bcf0)
+
+
+
+
+
+
+
+
+
 **Result:**
 
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
